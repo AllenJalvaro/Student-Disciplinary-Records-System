@@ -1,0 +1,107 @@
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\bin\Debug\Student Disciplinary Records System.exe.config
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\bin\Debug\Student Disciplinary Records System.exe
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\bin\Debug\Student Disciplinary Records System.pdb
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\bin\Debug\Azure.Core.dll
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\bin\Debug\Azure.Identity.dll
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\bin\Debug\LiveCharts.dll
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\bin\Debug\MySql.Data.dll
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\bin\Debug\SixLabors.ImageSharp.dll
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\bin\Debug\System.Buffers.dll
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\bin\Debug\System.Memory.Data.dll
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\bin\Debug\System.Memory.dll
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\bin\Debug\System.Security.Permissions.dll
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\bin\Debug\System.Text.Json.dll
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\bin\Debug\System.ValueTuple.dll
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\bin\Debug\Azure.Core.xml
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\bin\Debug\Azure.Identity.xml
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\bin\Debug\LiveCharts.pdb
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\bin\Debug\LiveCharts.xml
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\bin\Debug\SixLabors.ImageSharp.xml
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\bin\Debug\System.Buffers.xml
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\bin\Debug\System.Memory.xml
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\bin\Debug\System.Memory.Data.xml
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\bin\Debug\System.Security.Permissions.xml
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\bin\Debug\System.Text.Json.xml
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\bin\Debug\System.ValueTuple.xml
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\obj\Debug\Student Disciplinary Records System.csproj.AssemblyReference.cache
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\obj\Debug\Student_Disciplinary_Records_System.Form1.resources
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\obj\Debug\Student_Disciplinary_Records_System.Form2.resources
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\obj\Debug\Student_Disciplinary_Records_System.FormAY.resources
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\obj\Debug\Student_Disciplinary_Records_System.FormAYdetails.resources
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\obj\Debug\Student_Disciplinary_Records_System.FormBlock.resources
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\obj\Debug\Student_Disciplinary_Records_System.FormBlockDetails.resources
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\obj\Debug\Student_Disciplinary_Records_System.FormCreateNewAccount.resources
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\obj\Debug\Student_Disciplinary_Records_System.FormHome.resources
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\obj\Debug\Student_Disciplinary_Records_System.FormLogin.resources
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\obj\Debug\Student_Disciplinary_Records_System.FormProgram.resources
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\obj\Debug\Student_Disciplinary_Records_System.FormProgramDetails.resources
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\obj\Debug\Student_Disciplinary_Records_System.FormRecords.resources
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\obj\Debug\Student_Disciplinary_Records_System.FormStudentDetails.resources
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\obj\Debug\Student_Disciplinary_Records_System.FormStudentList.resources
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\obj\Debug\Student_Disciplinary_Records_System.FormUserAcc.resources
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\obj\Debug\Student_Disciplinary_Records_System.FormViolation.resources
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\obj\Debug\Student_Disciplinary_Records_System.Properties.Resources.resources
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\obj\Debug\Student Disciplinary Records System.csproj.GenerateResource.cache
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\obj\Debug\Student Disciplinary Records System.csproj.CoreCompileInputs.cache
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\obj\Debug\Student Disciplinary Records System.csproj.CopyComplete
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\obj\Debug\Student Disciplinary Records System.exe
+C:\Users\Allen\Source\Repos\Student Disciplinary Records System\Student Disciplinary Records System\obj\Debug\Student Disciplinary Records System.pdb
